@@ -62,4 +62,9 @@ kulibabamiah21@gmail.com
 [Telegram](https://t.me/jolly_corps) | [VK](https://vk.com/id123456789) | [GitHub](https://github.com/kulibabamiah21)
 
 Интересная особенность моего GitHub-профиля - я активно использую Markdown для форматирования своих проектов и документации. Это позволяет мне создавать красивое и структурированное представление информации, облегчая навигацию и чтение.    
+
+Скриншот - ![Resime_cach](https://github.com/21michael21/Resume/assets/91207739/63416330-a652-4f4b-91b3-75fa15aaa73b)
+
 Мое сверстанное резюме в pdf - [resume.pdf](https://github.com/21michael21/Resume/files/14853861/resume.pdf)
+
+
