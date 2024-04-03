@@ -16,6 +16,7 @@
 - Linux
 - DevTools
 - Rest API
+- JMeter
 
 ### Образование
 2020-2024
@@ -35,7 +36,7 @@
 - Linux
 
 ### Опыт работы
-2023-2024
+2022-2024
 Стажер QA Engineer, СервисМод
 - Тестирование веб-приложений и API
 - Составление и исполнение 300+ тест-кейсов
@@ -44,6 +45,7 @@
 - Автоматизация тестов с Cypress и Selenium
 - Взаимодействие с разработчиками по багам
 - Изучение REST API и SOAP
+
 
 ### Интересы
 - Спорт (поддержание физической формы и концентрации)
@@ -58,13 +60,16 @@
 +7 925 477 44 83
 kulibabamiah21@gmail.com
 
+
 ### Социальные сети
 [Telegram](https://t.me/jolly_corps) | [VK](https://vk.com/id123456789) | [GitHub](https://github.com/kulibabamiah21)
 
 Интересная особенность моего GitHub-профиля - я активно использую Markdown для форматирования своих проектов и документации. Это позволяет мне создавать красивое и структурированное представление информации, облегчая навигацию и чтение.    
 
-Скриншот - ![Resime_cach](https://github.com/21michael21/Resume/assets/91207739/63416330-a652-4f4b-91b3-75fa15aaa73b)
+Resume - ![Cach_resume](https://github.com/21michael21/Resume/assets/91207739/853e7b32-55bc-458e-a3a1-273eeb5e33d5)
 
-Мое сверстанное резюме в pdf - [resume.pdf](https://github.com/21michael21/Resume/files/14853861/resume.pdf)
+PDF - [res.pdf](https://github.com/21michael21/Resume/files/14856248/res.pdf)
+
+
 
 
