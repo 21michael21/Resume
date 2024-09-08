@@ -66,7 +66,6 @@ kulibabamiah21@gmail.com
 Интересная особенность моего GitHub-профиля - я активно использую Markdown для форматирования своих проектов и документации. Это позволяет мне создавать красивое и структурированное представление информации, облегчая навигацию и чтение.    
 
 Resume - 
-![Cach_resume](https://github.com/21michael21/Resume/assets/91207739/c1574695-0cc8-4298-baf8-d03293f7fe32)
 [QA_J_resume (2).pdf](https://github.com/user-attachments/files/16922301/QA_J_resume.2.pdf)
 
 
